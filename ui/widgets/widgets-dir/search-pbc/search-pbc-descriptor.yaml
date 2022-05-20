@@ -1,0 +1,6 @@
+code: search-pbc
+titles:
+  en: Search PBC
+  it: Search PBC
+group: free
+customUiPath: search-pbc.ftl
