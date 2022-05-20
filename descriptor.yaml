@@ -1,7 +1,7 @@
 code: search-pbc
 description: Entando Search PBC
 components:
-  plugins:
+  # plugins:
   # - plugins/entando-template-ms-plugin.yaml
   widgets:
     - ui/widgets/widgets-dir/search-pbc/search-pbc-descriptor.yaml
